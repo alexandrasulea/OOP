@@ -1,0 +1,11 @@
+﻿Build started...
+1>------ Build started: Project: Project1, Configuration: Release x64 ------
+1>Source.cpp
+1>Generating code
+1>1 of 532 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+1>  0 functions were new in current compilation
+1>  1 functions had inline decision re-evaluated but remain unchanged
+1>Finished generating code
+1>Project1.vcxproj -> C:\Users\Asus\source\repos\Project1\x64\Release\Project1.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 12:39 AM and took 01.026 seconds ==========
